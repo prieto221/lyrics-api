@@ -1,0 +1,20 @@
+{
+  "artists": [
+    {
+      "id": 0,
+      "name": "Muse",
+      "songs": [
+        {
+          "songid": "0",
+          "title": "Bliss",
+          "lyrics": "Everything about you is how I'd wanna be\nYour freedom comes naturally\nEverything about you resonates happiness\nNow I won't settle for less"
+        },
+        {
+          "songid": "1",
+          "title": "Hysteria",
+          "lyrics": "It's bugging me, grating me\nAnd twisting me around\nYeah I'm endlessly caving in\nAnd turning inside out"
+        }
+      ]
+    }
+  ]
+}
