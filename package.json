@@ -1,0 +1,23 @@
+{
+  "name": "lyrics-api",
+  "version": "1.0.0",
+  "description": "My Lyrics API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prieto221/lyrics-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prieto221/lyrics-api/issues"
+  },
+  "homepage": "https://github.com/prieto221/lyrics-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
